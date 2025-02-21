@@ -1,9 +1,9 @@
 {
-    "year": "4041",
-    "serverAddress": "LMS-1",
-    "serverName": "Node Y69 Intranet",
+   "year": "2377",
+    "serverAddress": "localhost",
+    "serverName": "Node Y56 Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y69",
+    "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
         "password": "",
