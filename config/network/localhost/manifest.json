@@ -3,7 +3,7 @@
     "serverAddress": "LMS-1",
     "serverName": "Node Y69 Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "Y69",
     "defaultUser": {
         "userId": "user",
         "password": "",
