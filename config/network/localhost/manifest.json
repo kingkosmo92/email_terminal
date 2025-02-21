@@ -1,5 +1,6 @@
 {
-    "serverAddress": "localhost",
+    "year": "4041",
+    "serverAddress": "LMS-1",
     "serverName": "Node Y56 Intranet",
     "iconName": "Moon-icon.png",
     "terminalID": "Y56",
